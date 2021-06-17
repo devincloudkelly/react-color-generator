@@ -1,6 +1,10 @@
 # React Projects: Color generator
 
-## Get started
+## See it in action
+
+This project is hosted via Netlify [https://react-projects-9-color-generator.netlify.app/](https://react-projects-9-color-generator.netlify.app/)
+
+## Local use
 
 - Clone this project to your local repo
 - CD into the project
