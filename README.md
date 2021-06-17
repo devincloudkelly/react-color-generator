@@ -2,7 +2,7 @@
 
 ## See it in action
 
-This project is hosted via Netlify [https://react-projects-9-color-generator.netlify.app/](https://react-projects-9-color-generator.netlify.app/)
+This project is hosted via Netlify [https://devincloudkelly-react-colorgenerator.netlify.app/](https://devincloudkelly-react-colorgenerator.netlify.app/)
 
 ## Local use
 
