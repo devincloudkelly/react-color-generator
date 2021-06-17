@@ -12,7 +12,7 @@ This project is hosted via Netlify [https://devincloudkelly-react-colorgenerator
 
 ## About
 
-This project uses useState() and useEffect(), along with a form and the Values JS library, which is an excellent resource for working with color values and converting between value types. Colors, alerts and the color list are set with useState() and useEffect() is used to console log an alert.
+This app generates brighter and darker tones of the color you input. It uses useState() and useEffect(), along with a simple form and the Values JS library, which is an excellent resource for working with color values and converting between value types. Colors, alerts and the color list are set with useState() and useEffect() is used to console log an alert.
 
 ## Libraries used in this project:
 
